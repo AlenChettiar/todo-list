@@ -18,11 +18,11 @@ A simple and responsive To-Do List application built using **HTML**, **CSS**, an
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/repo-name.git
+   git clone https://github.com/your-username/repo-name.git](https://github.com/AlenChettiar/todo-list
    ```
 2. Navigate to the project directory:
    ```bash
-   cd repo-name
+   cd todo-list
    ```
 3. Open `index.html` in your browser:
    ```bash
