@@ -40,7 +40,7 @@ A simple and responsive To-Do List application built using **HTML**, **CSS**, an
 
 ## Screenshots
 
-![To-Do List Screenshot](https://via.placeholder.com/800x400?text=Screenshot+Coming+Soon)
+![To-Do List Screenshot](assets/screenshot.png)
 
 ## License
 
@@ -50,5 +50,5 @@ This project is licensed under the MIT License. Feel free to use and modify it a
 
 ### Author
 
-Created by **Your Name**.  
-Feel free to reach out at [your-email@example.com](mailto:your-email@example.com).
+Created by **Alen Chettiar**.  
+Feel free to reach out at [alen.chettiar.25@gmail.com](mailto:your-email@example.com).
