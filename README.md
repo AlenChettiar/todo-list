@@ -40,7 +40,7 @@ A simple and responsive To-Do List application built using **HTML**, **CSS**, an
 
 ## Screenshots
 
-![To-Do List Screenshot](assets/screenshot.png)
+![To-Do List Screenshot](assests/screenshot.png)
 
 ## License
 
